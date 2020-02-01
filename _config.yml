@@ -1,10 +1,10 @@
 # Site settings
-title: 吾爱分享
-SEOTitle: 吾爱分享
+title: 道系程序员
+SEOTitle: 道系程序员
 header-img: img/post-bg-desk.jpg
 email: zz1277252850@gmail.com
-description: "随缘分享各种资源。没错，各种各样的资源。"
-keyword: "资源, 分享, 教程, 源代码, 分享资源, 资源分享, 1277252850"
+description: "作为道系程序员，随缘分享各种资源。没错，各种各样的资源。"
+keyword: "道系程序员, 资源, 分享, 教程, 源代码, 分享资源, 资源分享, 1277252850"
 url: "https://1277252850.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/1277252850/1277252850.github.io" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/1277252850/1277252850.github.io" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "分享资源，传递基情"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: c90ecc2f06d655134f18                            #生成的clientID
+  clientSecret: 3b5af2ec2ddbec797e985aa0f214843018f5c18c    #生成的clientSecret
+  repo: 1277252850.github.io    #仓库名称
+  owner: 1277252850    #github用户名
+  admin: 1277252850
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
